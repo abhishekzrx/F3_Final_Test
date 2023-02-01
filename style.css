@@ -1,0 +1,64 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+ol{
+  list-style-type: none;
+}
+
+#heading{
+   margin: 25px 50px 20px 100px;
+}
+.timezone{
+   border: 3px sloid black;
+   margin-left: 100px;
+}
+li{
+  margin: 8px;
+  font-weight:500;
+}
+#co-ordinate{
+  display:flex;
+   gap: 150px;
+}
+#input{
+  margin: 25px 50px 20px 100px;
+}
+#currenttime{
+  padding: 10px;
+  border: 2px solid black;
+  width:500px;
+}
+
+
+input{
+  width: 500px;
+  border: 2px soild white;
+ padding: 10px;
+}
+#btn{
+ 
+  border: 2px solid black;
+  background-color:black;
+  border: black;
+  color: white;
+ 
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  
+  margin-top: 20px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+p{
+  color: red;
+  font-weight: 400;
+  margin-top: 15px;
+
+}
